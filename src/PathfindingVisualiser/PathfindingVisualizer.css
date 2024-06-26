@@ -1,0 +1,26 @@
+.grid{
+    margin-top: 10px;
+    align-items: center;
+}
+button {
+    margin-top: 10px;
+    margin-left: 25px;
+    margin-right: 25px;
+    align-items: center;
+    height: 40px;
+    width: auto;
+    
+}
+
+/* #re {
+    background-color: gainsboro;
+    border-color: gainsboro;
+    color: black;
+
+}
+
+#dij {
+    background-color: seagreen;
+    border-color: seagreen;
+    color: black;
+} */
